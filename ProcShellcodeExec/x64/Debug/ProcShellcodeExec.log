@@ -1,0 +1,31 @@
+﻿  RemoteShellcodeInjection.c
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(34,18): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(38,18): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(105,59): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(105,59): warning C4024: 'CreateToolhelp32Snapshot': different types for formal and actual parameter 2
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(161,19): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(203,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+      C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(203,9):
+      consider using '%lld' in the format string
+      C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(203,9):
+      consider using '%Id' in the format string
+      C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(203,9):
+      consider using '%I64d' in the format string
+  
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(218,41): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(218,41): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 3
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(218,72): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(218,72): warning C4024: 'CreateRemoteThread': different types for formal and actual parameter 6
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(185,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(186,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(263,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'SIZE_T'
+      C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(263,9):
+      consider using '%lld' in the format string
+      C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(263,9):
+      consider using '%Id' in the format string
+      C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(263,9):
+      consider using '%I64d' in the format string
+  
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(235,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\ProcShellcodeExec\RemoteShellcodeInjection.c(238,14): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  ProcShellcodeExec.vcxproj -> C:\Users\Administrator\Desktop\MD\29.Proc-Inject-Shellcode-Exec\ProcShellcodeExec\x64\Debug\ProcShellcodeExec.exe
